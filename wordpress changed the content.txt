@@ -1,0 +1,9 @@
+http://wordpress.org/support/topic/wordpress-changed-the-content?replies=1#post-2273033
+ 
+I have code like this in my article (double '-' before amend)
+git commit --amend
+
+But, after published in wordpress, it became:
+git commit -amend
+
+How to solve this problem? Thanks!
