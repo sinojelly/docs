@@ -54,5 +54,3 @@ error: could not verify the tag 'v1.4.2.1'
 
 $ git-tag -s <tag-name>
  
-测试一下。
- 
