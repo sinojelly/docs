@@ -5,7 +5,7 @@
 # 标题2
 ## 子标题1
 这里有图333
-<img_location name="Wiz搜索框">
+<img_location name="Wiz搜索框"/>
 ![Wiz搜索框](images/测试wiki文章3.md/94b373d7-5131-4385-b055-ac4921a54465.png)
 
 
